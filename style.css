@@ -40,7 +40,7 @@ td:focus {
     background: #e2e3e9;
 }
 @media (max-width: 600px) {
-    .edt-table {
+  table {
         font-size: 0.85rem;
     }
 }
