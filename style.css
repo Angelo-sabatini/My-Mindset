@@ -39,8 +39,21 @@ td:focus {
     outline: 2px solid #4A90E2;
     background: #e2e3e9;
 }
-@media (max-width: 768px) {
-  body {
+@medi only sreen and (max-width: 600px) {
+  table {
         font-size: 0.85rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
