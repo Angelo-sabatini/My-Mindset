@@ -45,7 +45,15 @@ td:focus {
     }
 }
 
+.table-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
+table {
+  width: 100%;
+  table-layout: fixed;
+}
 
 
 
